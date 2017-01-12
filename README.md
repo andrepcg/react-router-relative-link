@@ -1,7 +1,9 @@
 # react-router-relative-link
-[![Build Status](https://travis-ci.org/donavon/react-router-relative-link.svg?branch=master)](https://travis-ci.org/donavon/react-router-relative-link)
+[![Build Status](https://travis-ci.org/andrepcg/react-router-relative-link.svg?branch=master)](https://travis-ci.org/andrepcg/react-router-relative-link)
 
 A wrapper around react-router's Link and LinkIndex that allows relative paths.
+
+Original repo: https://github.com/donavon/react-router-relative-link
 
 ## Install
 ```
@@ -57,4 +59,4 @@ pathname will be based.
 ### Does it Work?
 
 Of course it does, and I have the tests to prove it!
-See the [test results](https://travis-ci.org/donavon/react-router-relative-link?branch=master) here.
+See the [test results](https://travis-ci.org/andrepcg/react-router-relative-link?branch=master) here.
